@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Prithwi Raj Mal 👋
 
-<!--
-**Prithwix00/Prithwix00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+🤖 AI/ML Developer | Generative AI | Agentic RAG Enthusiast
 
-Here are some ideas to get you started:
+I build AI systems, RAG applications, autonomous agents, and full-stack projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- Python
+- C++
+- Machine Learning
+- Deep Learning
+- Generative AI
+- RAG
+- LangChain
+- React.js
+- Node.js
+- MongoDB
+- Docker
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 Autonomous FP&A Agent with Agentic RAG
+Built an AI-powered financial planning assistant using Agentic RAG architecture.
+
+### 📚 LexRAG
+Research project on Retrieval Augmented Generation.
+Presented research work.
+
+### 🚁 Autonomous Drone System
+Designed and developed a fully functional autonomous drone system.
+
+---
+
+## 🏆 Experience
+
+- Research Intern @ IIT Kharagpur
+- Attended conference UICONTRPDS562 2026
+- Industrial Project At APOLLO TYRES R&D DEPT.
+- SRM UROP Research Intern
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: prithwiraj09  
+Email: asimmal617@gmail.com
